@@ -1,0 +1,10 @@
+0 Mid-Century
+1 Kontemporer
+2 Industri
+3 Bohemian
+4 Rustic
+5 Skandinavia
+6 Neo-Klasik
+7 Tropis
+8 Modern
+9 Minimalis
